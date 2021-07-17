@@ -1,0 +1,172 @@
+{
+  "name": "Ginetta G40 Junior",
+  "brand": "Ginetta",
+  "description": "Based on Ginetta&#39;s versatile G40 platform, the G40 Junior car offers a perfect introduction to sports car racing for karting graduates and motorsport newcomers alike.  The G40 Junior is the ideal first step for young drivers looking to graduate from karting into car racing. It has become one of the most well-known models on the British Touring Car Championship support bill.<br><br>With a aero package, 6 speed Squential gear box, restricted to 100bhp (MSA Regulations) and controlled race, semi slick tyres, this is the ultimate racing machine aimed at 14-17yr olds.<br><br>Ginetta Junior graduates have gone on to secure international racing success with many now competing in GT, Touring Cars and Prototype championships across the world.",
+  "tags": [
+    "rwd",
+    "sequential",
+    "race"
+  ],
+  "class": "race",
+  "specs": {
+    "bhp": "100 bhp",
+    "torque": "113 Nm",
+    "weight": "830 kg",
+    "topspeed": "120 mph",
+    "acceleration": "-- s",
+    "pwratio": "8.3 kg/hp"
+  },
+  "torqueCurve": [
+    [
+      0.0,
+      74.3421052631579
+    ],
+    [
+      1000.0,
+      94.1666666666667
+    ],
+    [
+      1500.0,
+      99.1228070175438
+    ],
+    [
+      2000.0,
+      100.114035087719
+    ],
+    [
+      3500.0,
+      106.061403508772
+    ],
+    [
+      4000.0,
+      109.035087719298
+    ],
+    [
+      4500.0,
+      111.017543859649
+    ],
+    [
+      5500.0,
+      113.0
+    ],
+    [
+      5530.0,
+      113.0
+    ],
+    [
+      5600.0,
+      113.0
+    ],
+    [
+      5670.0,
+      113.0
+    ],
+    [
+      5740.0,
+      113.0
+    ],
+    [
+      5810.0,
+      113.0
+    ],
+    [
+      5880.0,
+      113.0
+    ],
+    [
+      5950.0,
+      113.0
+    ],
+    [
+      6000.0,
+      113.0
+    ],
+    [
+      6350.0,
+      112.008771929825
+    ],
+    [
+      6500.0,
+      109.035087719298
+    ],
+    [
+      7000.0,
+      98.1315789473684
+    ]
+  ],
+  "powerCurve": [
+    [
+      0.0,
+      0.0
+    ],
+    [
+      210.0,
+      2.31788725524354
+    ],
+    [
+      490.0,
+      5.79081597101247
+    ],
+    [
+      840.0,
+      10.7465681834019
+    ],
+    [
+      3150.0,
+      46.3577451048707
+    ],
+    [
+      3500.0,
+      52.1914849139433
+    ],
+    [
+      5500.0,
+      87.3806703365619
+    ],
+    [
+      6000.0,
+      95.3243676398857
+    ],
+    [
+      6350.0,
+      100.0
+    ],
+    [
+      6370.0,
+      99.9598634241516
+    ],
+    [
+      6440.0,
+      99.8018256567486
+    ],
+    [
+      6500.0,
+      99.6446240680092
+    ],
+    [
+      6580.0,
+      99.2570831300955
+    ],
+    [
+      6650.0,
+      98.8857919308759
+    ],
+    [
+      6720.0,
+      98.4844540450143
+    ],
+    [
+      6860.0,
+      97.5916382133649
+    ],
+    [
+      7000.0,
+      96.5786356351474
+    ]
+  ],
+  "year": 2019,
+  "country": "Great Britain",
+  "author": "Shaun Clarke",
+  "url": null,
+  "version": "1.0"
+}
